@@ -51,7 +51,7 @@
 					<div style="width:260px;height:195px;">
 						<img style="width:100%;height:100%;" src="../../assets/images/b.png" alt="">
 					</div>
-					<div style="border:1px solid #000;margin-top:20px;width:500px;height:500px;padding:10px;">
+					<div style="border:1px solid #000;margin-top:20px;width:500px;height:400px;padding:10px;">
 						<div style="display:flex;">
 							<img style="flex:1;width:100%;height:100%" src="../../assets/images/b.png" alt="">
 						</div>
